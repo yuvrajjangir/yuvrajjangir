@@ -24,7 +24,6 @@
 - 👨‍💻 You can check out my projects on [GitHub](https://github.com/yuvrajjangir?tab=repositories)
 - 📫 Reach me at **yuvijangir78@gmail.com**
 - 🔗 Visit my portfolio: [Portfolio](https://yuvrajjangir.github.io/)
-
 - <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yuvrajjangir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
