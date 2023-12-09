@@ -18,12 +18,25 @@
 </p>
 
 <!-- About Me Section -->
+
 ## About Me
 
-- 🌱 I’m currently learning **JavaScript and React**
-- 👨‍💻 You can check out my projects on [GitHub]('https://yuvrajjangir.github.io/')
-- 📫 Reach me at **yuvijangir78@gmail.com**
-- 🔗 Visit my portfolio: [Portfolio](https://yuvrajjangir.github.io/)
+🌟 Aspiring Full Stack Web Developer 🚀 from Masai School, Bangalore, India.
+
+📍 Located in Jhunjhunu district, Rajasthan.
+
+👨‍💻 Passionate about crafting interactive and scalable web applications. Currently honing my skills in JavaScript, React, Node.js, and more.
+
+🎓 Graduating in [Bachelor of Commerce] from [Chirawa College].
+
+🔍 Always eager to learn and explore new technologies to create innovative solutions.
+
+👨‍💻 You can check out my projects on [GitHub]('https://yuvrajjangir.github.io/')
+
+📫 Reach me at **yuvijangir78@gmail.com**
+
+🔗 Visit my portfolio: [Portfolio](https://yuvrajjangir.github.io/)
+
 - <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yuvrajjangir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
