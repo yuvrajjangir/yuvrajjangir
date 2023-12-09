@@ -21,7 +21,7 @@
 ## About Me
 
 - 🌱 I’m currently learning **JavaScript and React**
-- 👨‍💻 You can check out my projects on [GitHub](https://github.com/yuvrajjangir?tab=repositories)
+- 👨‍💻 You can check out my projects on [GitHub]('https://yuvrajjangir.github.io/')
 - 📫 Reach me at **yuvijangir78@gmail.com**
 - 🔗 Visit my portfolio: [Portfolio](https://yuvrajjangir.github.io/)
 - <!-- Profile Views -->
