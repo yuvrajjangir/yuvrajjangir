@@ -6,7 +6,7 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://twitter.com/Yuvi21156153" target="_blank">
+  <a href="https://twitter.com/theycallmeuvvv" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Yuvi21156153?style=social" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/yuvraj-jangir-827830247/" target="_blank">
