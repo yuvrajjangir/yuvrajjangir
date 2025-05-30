@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 ### Hi there, I'm Yuvraj Jangir 👋
-#### Aspiring Full Stack Web Developer
+#### Full Stack Web Developer
 
 <!-- Social Media Badges -->
 <p align="center">
@@ -21,13 +21,11 @@
 
 ## About Me
 
-🌟 Aspiring Full Stack Web Developer 🚀 from Masai School, Bangalore, India.
+🌟 A Full Stack Web Developer 🚀 from Masai School, Bangalore, India.
 
 📍 Located in Jhunjhunu district, Rajasthan.
 
 👨‍💻 Passionate about crafting interactive and scalable web applications. Currently honing my skills in JavaScript, React, Node.js, and more.
-
-🎓 Graduating in [Bachelor of Commerce] from [Chirawa College].
 
 🔍 Always eager to learn and explore new technologies to create innovative solutions.
 
